@@ -7,5 +7,5 @@ This project provides a way for futures traders to easily keep track of all thei
 Excel file uploads are watched using the `./traders-watch.sh` script, which are then parsed into trades using the `./trademaker` executable.
 These trades are saved using a PostgreSQL database and served through an API using the [Actix Web](https://github.com/actix/actix-web "Actix Web") web framework.
 
-Traders using the NinjaTrader platform, feel free to sign up for an account at [www.tradebetter.io](https://www.tradebetter.io).
+Traders using the NinjaTrader platform, feel free to sign up for an account at [tradebetter.io](https://tradebetter.io).
 
